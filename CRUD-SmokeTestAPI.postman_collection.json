@@ -1113,8 +1113,9 @@
 	"variable": [
 		{
 			"key": "postman-api-key",
-			"value": "PMAK-635556ff2c188e72a4c458f8-61eac3b99c6cf33c885003de0d30e79249",
-			"type": "string"
+			"value": "",
+			"type": "string",
+			"disabled": true
 		},
 		{
 			"key": "collectionId",
