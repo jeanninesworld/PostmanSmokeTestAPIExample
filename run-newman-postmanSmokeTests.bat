@@ -1,0 +1,1 @@
+newman run CRUD-SmokeTestAPI.postman_collection.json -k

@@ -8,10 +8,11 @@ Verification of the Edit.
 Deleting the collection.  
 Verification of the delete.
 
-#### Framework:
+#### Framework and Setup:
 Postman Application
 Open Source API - retrieved from Postman resources
 API Key generation from postman
+Install Newman to run from command line - npm install -g newman
 
 #### How to run:
 Download Postman
